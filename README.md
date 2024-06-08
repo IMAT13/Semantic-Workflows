@@ -94,3 +94,6 @@ By alleviating the burden of manual Gitflow management tasks, automation empower
 In essence, with automation driving Gitflow processes, developers and maintainers can confidently navigate complex workflows while maintaining a laser focus on delivering high-quality software solutions.
 
 #### note: I'm currently working on the automation part and soon as it's ready it will be documented in this repository.
+
+#### Authors
+Ali-Qavi , Shahab-Shafiee
